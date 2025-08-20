@@ -6,7 +6,7 @@ Mapping Realworld Attacks with MITRE ATT&CK project is a group of presentations 
 
 ### Skills Learned
 
-- Understanding of the MITRE ATT&CK framework.
+- Understanding of MITRE ATT&CK framework.
 - Proficiency in gathering open source data about attacks, attack campaigns, and Advanced Persistent Threats (APTs).
 - Ability to utilize gathered data and map TTPs using the framework.
 - Enhanced the knowledge of specific attacks, attack campaigns, APTs.

@@ -1,0 +1,55 @@
+    Initial Access:
+        Unknown Technique
+        Attackers gained access to GTC's network (Unknown Date, 2020).
+
+    Execution:
+        T1106: Native API
+        T1047: Windows Management Instrumentation
+        Attackers establish a foothold within GTC's network using exploits in GTC's network vulnerabilities (Unknown Date, 2020).
+
+    Persistence:
+        Unknown Technique
+        Attackers maintain their foothold within GTC's network (Unknown Date, 2020).
+
+    Privilege Escalation:
+        Unknown Technique
+        Attackers escalated their privileges within GTC's network (Unknown Date, 2020).
+
+    Defense Evasion:
+        T1140: Deobfuscate/Decode Files or Information
+        T1112: Modify Registry
+        T1027: Obfuscated Files or Information
+        Attackers evade detection within GTC's network (Unknown Date, 2020).
+
+    Credential Access:
+        Unknown Technique
+        Attackers may have accessed credentials during the lateral movement and privilege escalation stages (Unknown Date, 2020).
+
+    Discovery:
+        T1083: File and Directory Discovery
+        T1135: Network Share Discovery
+        T1057: Process Discovery
+        T1016: System Network Configuration Discovery
+        Attackers identify and assess GTC's systems, network configuration, and vulnerabilities (Unknown Date, 2020).
+
+    Lateral Movement:
+        Unknown Technique
+        Attackers laterally moved within GTC's network using exploits in GTC's vulnerabilities (Unknown Date, 2020).
+
+    Collection:
+        Unknown Technique
+        Attackers exfiltrated approximately 600GB of data from affected servers, workstations, and storage (Unknown Date, 2020).
+
+    Command and Control:
+        Unknown Technique
+        Attackers maintain communication with their C2 infrastructure to facilitate continuous control of the victim's environment (Unknown Date, 2020).
+
+    Exfiltration:
+        Unknown Technique
+        Attackers exfiltrated approximately 600GB of data (Unknown Date, 2020).
+
+    Impact:
+        T1486: Data Encrypted for Impact
+        T1490: Inhibit System Recovery
+        T1489: Service Stop
+        Attackers initiated their ransomware, which caused the impacted servers, workstations, and storage to be encrypted (August 2020).

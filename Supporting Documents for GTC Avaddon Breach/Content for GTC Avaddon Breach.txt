@@ -1,0 +1,53 @@
+CompTIA CySA+ 2nd edition content written by Chapple and Seidl,
+CHFI Content written by Charles L. Brooks,
+Incident Response 3rd edition Content written by Luttgens, Pepe, Mandia,
+DFIR industry standards and practices,
+Content related to the 2020 security incident at Greenville Technical College from the following sites; https://web.archive.org/web/20210625035634/https://www.gvltec.edu/about_greenvilletech/administration_governance/data-event.html, https://www.databreaches.net/greenville-technical-college-claims-no-personal-data-affected-by-ransomware-incident-threat-actors-claim-otherwise/, https://www.greenvilleonline.com/story/news/local/2020/09/01/greenville-tech-backtracks-calls-data-breach-credible-threat/3453854001/, https://app.hacknotice.com/#/hack/5f49650e2ac74f1a4f91a1c9, https://www.greenvilleonline.com/story/news/local/2020/08/28/greenville-tech-says-thwarts-data-breach-after-ransom-sought/5662602002/, and https://www.audacy.com/989word/articles/news/cybersecurity-breach-at-gtc, https://www.gvltec.edu/about_greenvilletech/administration_governance/area_commission/minutes-agendas/012021-board-minutes.pdf
+
+https://therecord.media/avaddon-ransomware-operation-shuts-down-and-releases-decryption-keys, https://www.bleepingcomputer.com/news/security/avaddon-ransomware-shuts-down-and-releases-decryption-keys/, https://www.bleepingcomputer.com/news/security/us-and-australia-warn-of-escalating-avaddon-ransomware-attacks/
+
+Timeline
+Unknown Date, 2020: Attackers gained access to GTC's network.
+
+Unknown Date, 2020: Attackers establish a foothold within GTC's network using exploits in GTC's network vulnerabilities.
+
+Unknown Date, 2020: Attackers laterally moved within GTC's network using exploits in GTC's vulnerabilities.
+
+Unknown Date, 2020: Attackers escalated their priveleges within GTC's network.
+
+Unknown Date, 2020: Attackers exfiltrated approximately 600GB of data from affected servers, workstations, and storage.
+
+August 2020: Attackers initiated their ransomware, which caused the impacted servers, workstations, and storage to be encrypted.
+
+August 27, 2020: GTC discovered that certain files on systems were infected with malware, impacting the victim's ability to access those systems (as reported by greenvilleonline.com, gvltec.edu, audacy.com/989word).
+
+August 28, 2020: GTC publicly announced a potential security incident (as reported by greenvilleonline.com).
+
+August 29, 2020: Avaddon claimed responsibility for the attack through an onion site (as reported by hacknotice.com).
+
+August 30, 2020: According to Data Breaches, Greenville Technical College claimed that no personal data was affected by the ransomware incident, but the threat actors claimed otherwise.
+
+September 1, 2020: GTC stated that the incident was a credible attack after news reported that GTC's President, Keith Miller, and others' tax documents were posted by the attackers online. Avaddon had communicated to GTC that the attack was not thwarted and that staff and students were impacted. Avaddon explained that they obtained Social Security and Driver's License numbers, medical and financial information of staff and students. Avaddon claimed that they were going to sell the data online if GTC did not contact them by a certain time.
+
+October 23, 2020: System Disruption Update acknowledged that the incident was a data breach, recommended victims to enroll in credit monitoring, monitor online accounts, reset account passwords, and provided additional information.
+
+January 20, 2021: GTC's Board acknowledged the breach, and the school incurred expenses not covered by the school's insurance policy. The result of those expenditures due to the data breach caused delays in new projects.
+
+September 15, 2021: GTC released The Annual Comprehensive Financial Report, acknowledging the data breach incident in the report.
+
+November 16, 2022: FBI informed GTC the investigation continues and they have made inroads in identifying the ransomware attackers. The details may be made public in the future. 
+
+https://attack.mitre.org/software/S0640/
+
+
+In regards to reports and guidance for higher edu.
+https://fsapartners.ed.gov/knowledge-center/topics/fsa-cybersecurity-announcements-and-guidance
+https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2022-03-01/joint-cybersecurity-advisory-2021-trends-show-increased-globalized-threat-ransomware
+https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2022-01-11/stopransomwaregov-website-us-governments-one-stop-location-stop-ransomware
+https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2022-06-28/fbi-alert-about-login-credentials-us-education-institutions-found-compromised-dark-web
+https://www.ic3.gov/Media/News/2022/220526.pdf
+https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2023-02-16/new-cybersecurity-resources-institutes-higher-education-available
+https://fsapartners.ed.gov/title-iv-program-eligibility/cybersecurity
+
+https://www.gvltec.edu/about_greenvilletech/administration_governance/admin_policies/4-04-Information-Security-Policy.html
+
